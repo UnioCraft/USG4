@@ -1,0 +1,70 @@
+database:
+  ip: 127.0.0.1
+  port: port
+  dbname: minecraft
+  user: bukkit
+  pass: password
+  table: teamsg3
+chat: true
+kurallar: |-
+      §c----Kurallar-----
+      §21- §aHile kullanmak ve oyun açıklarından yararlanmak yasaktır.
+      §22- §aChatte spam yapmak ve küfür etmek yasaktır.
+      §23- §aOtomatik vurucu (Makro) kullanmak yasaktır.
+      §24- §aDiğer oyuncuların huzurunu bozmak yasaktır.
+      §25- §aSoloSG odalarda takım olmak yasaktır.
+      §cKurallara uymayanlar cezalandırılacaktır.
+vipozellik: |-
+      §c----VIP Özellikleri-----
+      §21- §aİki kat daha fazla puan kazanırsınız!
+      §22- §aVerdiğiniz oylar 2 kişilik sayılır!
+      §23- §aDolu arenalara girebilirsin!
+      §24- §aAdının başında VIP yazar ve diğerlerinden farklı olursun.
+      §25- §aSohbet ederken 15 saniye zaman limitine takılmazsın!
+      §26- §aLobide de VIP olursun.
+      §27- §aLobide yaratıklara dönüşebilirsin, evcil hayvan sahibi olabilirsin.
+      §28- §aLobide uçabilirsin.
+      §29- §aLobide şapkalar ve özel efektler kullanabilirsin.
+heroozellik: |-
+      §c----Hero Özellikleri-----
+      §21- §aÜç kat daha fazla puan kazanırsınız!
+      §22- §aVerdiğiniz oylar 3 kişilik sayılır!
+      §23- §aDolu arenalara girebilirsin!
+      §24- §aAdının başında HERO yazar ve diğerlerinden farklı olursun.
+      §25- §aSohbet ederken 15 saniye zaman limitine takılmazsın!
+      §26- §aLobide de VIP olursun.
+      §27- §aLobide yaratıklara dönüşebilirsin, evcil hayvan sahibi olabilirsin.
+      §28- §aLobide ve bekleme lobisinde uçabilirsin.
+      §29- §aLobide şapkalar ve özel efektler kullanabilirsin.
+komutlar:
+    normal: |-
+      §c----Komutlar-----
+      §2/hub: §aLobiye geri dönersin.
+      §2/puan: §aPuan miktarını görürsün.
+      §2/istatistikler: §aİstatistiklerini görürsün.
+      §2/kurallar: §aKuralları görürsün.
+      §2/vote #: §aBir haritaya oy verirsin. (# yerine bir sayı yaz.)
+      §2/komutlar: §aKullanabileceğin komutların listesini görürsün.
+      §2/info: §aHaritanın yapımcısına dair bilgileri görüsün.
+      §2/intihar: §aİntihar edersin. Kısaca /öl komutunu da kullanabilirsin.
+      §2/list: §aOyuncu listesini görürsün.
+      §2/sponsor <isim>: §aİzleyiciyken oyundaki birine eşya yardımı yapma menüsünü açarsın.
+      §2/bounty <isim>: §aOyundaki birine puan yatırırsın. Oyunu kazanırsa bu puanlar o kişiye gider.
+      §2/spectate <isim>: §aBir oyuncuya izleyici olarak ışınlanırsın.
+    hero: |-
+      §c----Komutlar-----
+      §2/hub: §aLobiye geri dönersin.
+      §2/uç: §aBekleme lobisinde iken uçarsın.
+      §2/puan: §aPuan miktarını görürsün.
+      §2/istatistikler: §aİstatistiklerini görürsün.
+      §2/kurallar: §aKuralları görürsün.
+      §2/vote #: §aBir haritaya oy verirsin. (# yerine bir sayı yaz.)
+      §2/komutlar: §aKullanabileceğin komutların listesini görürsün.
+      §2/info: §aHaritanın yapımcısına dair bilgileri görüsün.
+      §2/intihar: §aİntihar edersin. Kısaca /öl komutunu da kullanabilirsin.
+      §2/list: §aOyuncu listesini görürsün.
+      §2/sponsor <isim>: §aİzleyiciyken oyundaki birine eşya yardımı yapma menüsünü açarsın.
+      §2/bounty <isim>: §aOyundaki birine puan yatırırsın. Oyunu kazanırsa bu puanlar o kişiye gider.
+      §2/spectate <isim>: §aBir oyuncuya izleyici olarak ışınlanırsın.
+Mesajlar:
+  YasakliKomutMesaji: §cKullanılamayan bir komut girdiniz!

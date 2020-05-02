@@ -1,0 +1,42 @@
+author: UnioDex
+main: net.uniodex.USG4.Main
+name: USG
+url: http://uniocraft.com/
+version: 4.0-SNAPSHOT
+depend: [Vault]
+loadbefore: [AdvancedSurvivalGames]
+
+commands:
+  kill:
+    description: Ölürsünüz.
+    aliases: [öl,intihar,intiharet]
+  hub:
+    description: Ana SG lobisine gider
+  setviolation:
+    description: AAC Violasyon ayarlar
+  lobi:
+    description: Ana SG lobisine gider
+  lobby:
+    description: Ana SG lobisine gider
+  puan:
+    description: Puanlarınızı görürsünüz.
+  stats:
+    description: İstatistiklerinizi görürsünüz.
+  points:
+    description: Puanlarınızı görürsünüz.
+  istatistikler:
+    description: İstatistiklerinizi görürsünüz.    
+  fly:
+    description: Uç.
+  uç:
+    description: Uç.
+  kurallar:
+    description: Kuralları gör.
+  rules:
+    description: Kuralları gör.
+  komutlar:
+    description: Komutları gör.
+  vipbilgi:
+    description: VIP Bilgi.
+  herobilgi:
+    description: Hero Bilgi. 
